@@ -79,11 +79,10 @@ public class MemberDao {
 	//추가
 	public MemberDTO  addMember(MemberDTO m) throws SQLException{
 		
-		
 		PreparedStatement pt =null;
 		int rs =0;
-		String query = "INSERT INTO h2 ( id, pass, name) VALUES (?,  ?, ?)";
-	
+		String query = "INSERT INTO h2 (id, pass, name) VALUES (?,  ?, ?)";
+
 		pt=con.prepareStatement(query);
 		pt.setInt(1, m.getId());
 		pt.setString(2, m.getPass());
@@ -99,13 +98,8 @@ public class MemberDao {
 		if (rs == 1) return m;
 		else return null;
 	}
-	
-
-	
 	//업데이트
 	public int  updateMember(MemberDTO membervo) throws SQLException{
-		
-		
 		int result ;
 		PreparedStatement pt =null;
 		

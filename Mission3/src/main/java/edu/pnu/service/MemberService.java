@@ -34,31 +34,21 @@ public class MemberService {
 	
 	
 	public MemberDTO addMember(MemberDTO m) throws SQLException {
-		if (getMemberById(m.getId())!=null) {
-			System.out.println("이미 존재하는 아이디"+m.getId()+"입니다.");
-			return null;
-		}
+
 		
 		return dao.addMember(m);
 	}
 	
 	public int updateMember(MemberDTO membervo) throws SQLException {
-		MemberDTO m=	getMemberById(membervo.getId());
-		if (m==null) {
-			System.out.println("등록되어있지 않는 아이디입니다.");
-			return 0;
-		}
-		return dao.updateMember(m);
+		
+		return dao.updateMember(membervo);
 		
 		
 	}
 	
 	public int removeMember(int id) throws SQLException {
 	
-		if (getMemberById(id)==null) {
-			System.out.println("등록되어있지 않는 아이디입니다.");
-			return 0;
-		}
+	
 		return dao.removeMember(id);
 	}
 	
