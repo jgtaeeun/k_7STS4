@@ -9,5 +9,8 @@ class Chapter01ApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+	@Test
+	void contextLoads1() {
+		System.out.println("Chapter01ApplicationTests1");
+	}
 }

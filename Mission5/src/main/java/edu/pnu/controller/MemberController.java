@@ -1,5 +1,6 @@
 package edu.pnu.controller;
 
+import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.List;
 
@@ -10,6 +11,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import edu.pnu.dao.LogDao;
 import edu.pnu.domain.MemberDTO;
 import edu.pnu.service.MemberService;
 import lombok.RequiredArgsConstructor;
@@ -19,33 +21,34 @@ import lombok.RequiredArgsConstructor;
 
 public class MemberController {
 
-	
 	@Autowired
-	private MemberService ms ;
+	 private MemberService memberService;
+
+
+	 public MemberController(MemberService memberService) {
+		this.memberService=memberService;
+	 }
 	
-	public MemberController() throws SQLException {
-		ms = new MemberService();
-	}
-		
+	
 	 
 	@GetMapping("/members")
 	public List<MemberDTO> getAllMember() throws SQLException{
-		return ms.getAllMember();
+		return memberService.getAllMember();
 	}
 	@GetMapping("/member")
 	public MemberDTO getMemberById(int id) throws SQLException{
-		return ms.getMemberById(id);
+		return memberService.getMemberById(id);
 	}
 	@PostMapping("/member")
 	public MemberDTO addMember(MemberDTO m) throws SQLException {
-		return ms.addMember(m);
+		return memberService.addMember(m);
 	}
 	@PutMapping("/member")
 	public int updateMember(MemberDTO membervo) throws SQLException {
-		return ms.updateMember(membervo);
+		return memberService.updateMember(membervo);
 	}
 	@DeleteMapping("/member")
 	public int removeMember(int id) throws SQLException {
-		return ms.removeMember(id);
+		return memberService.removeMember(id);
 	}
 }

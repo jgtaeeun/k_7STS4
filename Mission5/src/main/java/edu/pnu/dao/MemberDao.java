@@ -16,25 +16,26 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
 import edu.pnu.domain.MemberDTO;
+import edu.pnu.service.MemberService;
 import lombok.RequiredArgsConstructor;
 
 @Repository
 
 public class MemberDao {
-
+	
 	private  Map<String, String> param;
 	private Connection con;
 	@Autowired
-	private LogDao logdao;
+	private  LogDao logdao;
 	
-	  // Inject Connection bean
-	public MemberDao() throws SQLException {
+	
+	public MemberDao(LogDao logdao)  throws SQLException {
 		
 		String url="jdbc:mysql://localhost:3306/musthave";
 		
 		con=DriverManager.getConnection(url, "scott","tiger");
 		param=new HashMap<String, String>();
-		logdao=new LogDao();
+		this.logdao = logdao;
 	}
 	
 	//db정보 다 가져오기
@@ -112,7 +113,7 @@ public class MemberDao {
 			query=pt.toString().split(":")[1];
 			pt.close();
 			param.put("sqlstring",query);
-			param.put("method", "Put");
+			param.put("method", "Post");
 			logdao.addLog(param);
 			
 			m.setRegidate(new Date());
@@ -138,7 +139,7 @@ public class MemberDao {
 			pt.close();
 				
 			param.put("sqlstring",query);
-			param.put("method", "Post");
+			param.put("method", "Put");
 			logdao.addLog(param);
 			
 			if (result == 1) return 1;
