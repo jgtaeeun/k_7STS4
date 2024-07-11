@@ -3315,3 +3315,676 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2024-07-10 17:51:09,442 [Worker-134: Launching Executing install in C__workspace-sts4_Chapter01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
 2024-07-10 17:51:09,442 [Worker-134: Launching Executing install in C__workspace-sts4_Chapter01] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\workspace-sts4\Chapter01":
 2024-07-10 17:51:09,442 [Worker-134: Launching Executing install in C__workspace-sts4_Chapter01] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always install
+2024-07-10 18:01:05,533 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313 [359])
+2024-07-10 18:01:05,534 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313
+2024-07-10 18:01:05,534 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\aopalliance-1.0.jar
+2024-07-10 18:01:05,534 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\guice-5.1.0.jar
+2024-07-10 18:01:05,534 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpclient-4.5.14.jar
+2024-07-10 18:01:05,534 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpcore-4.4.16.jar
+2024-07-10 18:01:05,534 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jansi-2.4.1.jar
+2024-07-10 18:01:05,534 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jcl-over-slf4j-1.7.36.jar
+2024-07-10 18:01:05,534 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-artifact-3.9.7.jar
+2024-07-10 18:01:05,534 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-builder-support-3.9.7.jar
+2024-07-10 18:01:05,534 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-compat-3.9.7.jar
+2024-07-10 18:01:05,534 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-core-3.9.7.jar
+2024-07-10 18:01:05,534 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-embedder-3.9.7.jar
+2024-07-10 18:01:05,535 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-3.9.7.jar
+2024-07-10 18:01:05,535 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-builder-3.9.7.jar
+2024-07-10 18:01:05,535 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-plugin-api-3.9.7.jar
+2024-07-10 18:01:05,535 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-repository-metadata-3.9.7.jar
+2024-07-10 18:01:05,535 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-api-1.9.20.jar
+2024-07-10 18:01:05,535 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-connector-basic-1.9.20.jar
+2024-07-10 18:01:05,535 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-impl-1.9.20.jar
+2024-07-10 18:01:05,535 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-named-locks-1.9.20.jar
+2024-07-10 18:01:05,535 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-provider-3.9.7.jar
+2024-07-10 18:01:05,535 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-spi-1.9.20.jar
+2024-07-10 18:01:05,535 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-file-1.9.20.jar
+2024-07-10 18:01:05,535 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-http-1.9.20.jar
+2024-07-10 18:01:05,536 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-wagon-1.9.20.jar
+2024-07-10 18:01:05,536 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-util-1.9.20.jar
+2024-07-10 18:01:05,536 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-3.9.7.jar
+2024-07-10 18:01:05,536 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-builder-3.9.7.jar
+2024-07-10 18:01:05,536 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-shared-utils-3.4.2.jar
+2024-07-10 18:01:05,536 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-07-10 18:01:05,536 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-07-10 18:01:05,536 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-0.0.7.jar
+2024-07-10 18:01:05,536 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-1.2.0.jar
+2024-07-10 18:01:05,536 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-cipher-2.0.jar
+2024-07-10 18:01:05,536 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-classworlds-2.8.0.jar
+2024-07-10 18:01:05,536 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-component-annotations-2.1.0.jar
+2024-07-10 18:01:05,536 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-interpolation-1.27.jar
+2024-07-10 18:01:05,537 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-sec-dispatcher-2.0.jar
+2024-07-10 18:01:05,537 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-utils-3.5.1.jar
+2024-07-10 18:01:05,537 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-file-3.5.3.jar
+2024-07-10 18:01:05,537 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-3.5.3.jar
+2024-07-10 18:01:05,537 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-shared-3.5.3.jar
+2024-07-10 18:01:05,537 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-provider-api-3.5.3.jar
+2024-07-10 18:01:05,537 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.2.0.jre [29])
+2024-07-10 18:01:05,537 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\com.google.guava_33.2.0.jre.jar
+2024-07-10 18:01:05,537 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [592])
+2024-07-10 18:01:05,537 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\slf4j.api_2.0.13.jar
+2024-07-10 18:01:05,537 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [44])
+2024-07-10 18:01:05,538 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-07-10 18:01:05,538 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [53])
+2024-07-10 18:01:05,538 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-07-10 18:01:05,538 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.8.0 [76])
+2024-07-10 18:01:05,538 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.apache.commons.cli_1.8.0.jar
+2024-07-10 18:01:05,538 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2024-07-10 18:01:05,538 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-07-10 18:01:05,538 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [82])
+2024-07-10 18:01:05,538 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-07-10 18:01:05,538 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [30])
+2024-07-10 18:01:05,538 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\01DevelopKits\sts-4.23.1.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-07-10 18:01:05,539 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\workspace-sts4\Mission5":
+2024-07-10 18:01:05,539 [Worker-139: Launching Executing install in C__workspace-sts4_Mission5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always install
+2024-07-11 09:22:23,273 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-11 09:22:29,146 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-11 09:22:29,161 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\board-spring-boot-starter\src\test\resources
+2024-07-11 09:57:16,837 [Worker-1: Creating project "Chapter04"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rubypaper:Chapter04:0.0.1-SNAPSHOT @ C:\workspace-sts4\Chapter04\pom.xml.
+2024-07-11 09:57:17,759 [Worker-1: Creating project "Chapter04"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Chapter04/src/main/java
+2024-07-11 09:57:17,761 [Worker-1: Creating project "Chapter04"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chapter04/src/main/resources
+2024-07-11 09:57:17,762 [Worker-1: Creating project "Chapter04"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Chapter04/src/test/java
+2024-07-11 09:57:17,762 [Worker-1: Creating project "Chapter04"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chapter04/src/test/resources
+2024-07-11 09:57:18,140 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 09:57:18,142 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 09:57:18,145 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 09:57:18,146 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 09:59:19,261 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 09:59:19,263 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 09:59:19,266 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 09:59:19,267 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 10:07:34,727 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-11 10:10:09,128 [Worker-6: Building Project Chapter04] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:10:09,137 [Worker-6: Building Project Chapter04] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:10:09,142 [Worker-6: Building Project Chapter04] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:10:09,142 [Worker-6: Building Project Chapter04] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 10:23:05,858 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:23:05,862 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:23:05,865 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:23:05,866 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 10:25:56,880 [Worker-19: Building Project Chapter04] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:25:56,881 [Worker-19: Building Project Chapter04] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:25:56,883 [Worker-19: Building Project Chapter04] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:25:56,885 [Worker-19: Building Project Chapter04] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 10:35:04,555 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rubypaper:Chapter04:0.0.1-SNAPSHOT @ C:\workspace-sts4\Chapter04\pom.xml.
+2024-07-11 10:35:04,849 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.pom
+2024-07-11 10:35:04,873 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.pom
+2024-07-11 10:35:04,919 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.8.2/junit-bom-5.8.2.pom
+2024-07-11 10:35:04,945 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.8.2/junit-bom-5.8.2.pom
+2024-07-11 10:35:05,002 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.18/byte-buddy-1.12.18.pom
+2024-07-11 10:35:05,024 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.18/byte-buddy-1.12.18.pom
+2024-07-11 10:35:05,044 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.12.18/byte-buddy-parent-1.12.18.pom
+2024-07-11 10:35:05,077 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.12.18/byte-buddy-parent-1.12.18.pom
+2024-07-11 10:35:05,162 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.5.1/classmate-1.5.1.pom
+2024-07-11 10:35:05,178 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.5.1/classmate-1.5.1.pom
+2024-07-11 10:35:05,205 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/35/oss-parent-35.pom
+2024-07-11 10:35:05,226 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/35/oss-parent-35.pom
+2024-07-11 10:35:05,285 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.pom
+2024-07-11 10:35:05,311 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.pom
+2024-07-11 10:35:05,327 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/15/jboss-parent-15.pom
+2024-07-11 10:35:05,353 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/15/jboss-parent-15.pom
+2024-07-11 10:35:05,397 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.pom
+2024-07-11 10:35:05,418 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.pom
+2024-07-11 10:35:05,436 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-runtime-parent/2.3.1/jaxb-runtime-parent-2.3.1.pom
+2024-07-11 10:35:05,450 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-runtime-parent/2.3.1/jaxb-runtime-parent-2.3.1.pom
+2024-07-11 10:35:05,467 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-parent/2.3.1/jaxb-parent-2.3.1.pom
+2024-07-11 10:35:05,492 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-parent/2.3.1/jaxb-parent-2.3.1.pom
+2024-07-11 10:35:05,513 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-bom-ext/2.3.1/jaxb-bom-ext-2.3.1.pom
+2024-07-11 10:35:05,528 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-bom-ext/2.3.1/jaxb-bom-ext-2.3.1.pom
+2024-07-11 10:35:05,548 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-bom/2.3.1/jaxb-bom-2.3.1.pom
+2024-07-11 10:35:05,563 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-bom/2.3.1/jaxb-bom-2.3.1.pom
+2024-07-11 10:35:05,587 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.pom
+2024-07-11 10:35:05,601 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.pom
+2024-07-11 10:35:05,620 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-txw-parent/2.3.1/jaxb-txw-parent-2.3.1.pom
+2024-07-11 10:35:05,635 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-txw-parent/2.3.1/jaxb-txw-parent-2.3.1.pom
+2024-07-11 10:35:05,654 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.pom
+2024-07-11 10:35:05,668 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.pom
+2024-07-11 10:35:05,698 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons/3.0.7/istack-commons-3.0.7.pom
+2024-07-11 10:35:05,713 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons/3.0.7/istack-commons-3.0.7.pom
+2024-07-11 10:35:05,740 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.pom
+2024-07-11 10:35:05,777 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.pom
+2024-07-11 10:35:05,804 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.pom
+2024-07-11 10:35:05,818 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.pom
+2024-07-11 10:35:05,841 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/fastinfoset-project/1.2.15/fastinfoset-project-1.2.15.pom
+2024-07-11 10:35:05,859 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/fastinfoset-project/1.2.15/fastinfoset-project-1.2.15.pom
+2024-07-11 10:35:05,886 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/2.2.224/h2-2.2.224.pom
+2024-07-11 10:35:05,922 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/2.2.224/h2-2.2.224.pom
+2024-07-11 10:35:05,958 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.jar
+2024-07-11 10:35:05,982 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.jar
+2024-07-11 10:35:06,052 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar
+2024-07-11 10:35:06,104 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.jar
+2024-07-11 10:35:06,104 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.jar
+2024-07-11 10:35:06,105 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar
+2024-07-11 10:35:06,157 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.jar
+2024-07-11 10:35:06,158 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar
+2024-07-11 10:35:06,172 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.jar
+2024-07-11 10:35:06,173 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.18/byte-buddy-1.12.18.jar
+2024-07-11 10:35:06,259 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.jar
+2024-07-11 10:35:06,310 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar
+2024-07-11 10:35:06,331 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/2.2.224/h2-2.2.224.jar
+2024-07-11 10:35:06,342 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.jar
+2024-07-11 10:35:06,414 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.jar
+2024-07-11 10:35:06,834 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.jar
+2024-07-11 10:35:07,278 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/2.2.224/h2-2.2.224.jar
+2024-07-11 10:35:07,312 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.18/byte-buddy-1.12.18.jar
+2024-07-11 10:35:09,797 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Mission1:0.0.1-SNAPSHOT @ C:\workspace-sts4\Mission1\pom.xml.
+2024-07-11 10:35:10,355 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Mission4:0.0.1-SNAPSHOT @ C:\workspace-sts4\Mission4\pom.xml.
+2024-07-11 10:35:10,883 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Mission4-1:0.0.1-SNAPSHOT @ C:\workspace-sts4\Mission4-1\pom.xml.
+2024-07-11 10:35:11,425 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Mission2:0.0.1-SNAPSHOT @ C:\workspace-sts4\Mission2\pom.xml.
+2024-07-11 10:35:11,938 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Mission3:0.0.1-SNAPSHOT @ C:\workspace-sts4\Mission3\pom.xml.
+2024-07-11 10:35:12,593 [Worker-24: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/board-spring-boot-starter: com.rubypaper:board-spring-boot-starter:0.0.1-SNAPSHOT with classifier  to /board-spring-boot-starter/target/classes
+2024-07-11 10:35:12,637 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.rubypaper:Chapter02:0.0.1-SNAPSHOT @ C:\workspace-sts4\Chapter02\pom.xml.
+2024-07-11 10:35:12,667 [Worker-24: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/board-spring-boot-starter: com.rubypaper:board-spring-boot-starter:0.0.1-SNAPSHOT with classifier  to /board-spring-boot-starter/target/classes
+2024-07-11 10:35:13,087 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Mission5:0.0.1-SNAPSHOT @ C:\workspace-sts4\Mission5\pom.xml.
+2024-07-11 10:35:13,512 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Chapter03:0.0.1-SNAPSHOT @ C:\workspace-sts4\Chapter03\pom.xml.
+2024-07-11 10:35:13,948 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT @ C:\workspace-sts4\Chap03Mission\pom.xml.
+2024-07-11 10:35:14,460 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rubypaper:Chapter01:0.0.1-SNAPSHOT @ C:\workspace-sts4\Chapter01\pom.xml.
+2024-07-11 10:35:16,115 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:35:16,118 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:35:16,122 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:35:16,123 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 10:35:16,318 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final-sources.jar
+2024-07-11 10:35:16,464 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-11 10:35:16,856 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final-sources.jar
+2024-07-11 10:35:16,860 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.4.3.Final
+2024-07-11 10:35:16,983 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7-javadoc.jar
+2024-07-11 10:35:16,987 [Worker-26: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for antlr:antlr:2.7.7
+org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:jar:javadoc:2.7.7
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-11 10:35:17,038 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.5.1/classmate-1.5.1-sources.jar
+2024-07-11 10:35:17,078 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.5.1/classmate-1.5.1-sources.jar
+2024-07-11 10:35:17,082 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml:classmate:1.5.1
+2024-07-11 10:35:17,172 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rubypaper:Chapter01:0.0.1-SNAPSHOT @ C:\workspace-sts4\Chapter01\pom.xml.
+2024-07-11 10:35:17,247 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1-sources.jar
+2024-07-11 10:35:17,346 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rubypaper:Chapter04:0.0.1-SNAPSHOT @ C:\workspace-sts4\Chapter04\pom.xml.
+2024-07-11 10:35:17,433 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1-sources.jar
+2024-07-11 10:35:17,436 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:jaxb-runtime:2.3.1
+2024-07-11 10:35:17,486 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1-sources.jar
+2024-07-11 10:35:17,486 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Mission1:0.0.1-SNAPSHOT @ C:\workspace-sts4\Mission1\pom.xml.
+2024-07-11 10:35:17,527 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1-sources.jar
+2024-07-11 10:35:17,531 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:txw2:2.3.1
+2024-07-11 10:35:17,575 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Mission4:0.0.1-SNAPSHOT @ C:\workspace-sts4\Mission4\pom.xml.
+2024-07-11 10:35:17,584 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7-sources.jar
+2024-07-11 10:35:17,880 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7-sources.jar
+2024-07-11 10:35:17,883 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.istack:istack-commons-runtime:3.0.7
+2024-07-11 10:35:17,929 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8-sources.jar
+2024-07-11 10:35:18,123 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Chapter01/src/main/java
+2024-07-11 10:35:18,124 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chapter01/src/main/resources
+2024-07-11 10:35:18,125 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chapter01/src/main/resources
+2024-07-11 10:35:18,125 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Chapter01/src/test/java
+2024-07-11 10:35:18,126 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chapter01/src/test/resources
+2024-07-11 10:35:18,179 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8-sources.jar
+2024-07-11 10:35:18,181 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jvnet.staxex:stax-ex:1.8
+2024-07-11 10:35:18,349 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Chapter04/src/main/java
+2024-07-11 10:35:18,349 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chapter04/src/main/resources
+2024-07-11 10:35:18,350 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Chapter04/src/test/java
+2024-07-11 10:35:18,350 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chapter04/src/test/resources
+2024-07-11 10:35:18,371 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15-sources.jar
+2024-07-11 10:35:18,460 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15-sources.jar
+2024-07-11 10:35:18,463 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.xml.fastinfoset:FastInfoset:1.2.15
+2024-07-11 10:35:18,472 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission1/src/main/java
+2024-07-11 10:35:18,472 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission1/src/main/resources
+2024-07-11 10:35:18,472 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission1/src/main/resources
+2024-07-11 10:35:18,473 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission1/src/test/java
+2024-07-11 10:35:18,473 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission1/src/test/resources
+2024-07-11 10:35:18,543 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.18/byte-buddy-1.12.18-sources.jar
+2024-07-11 10:35:18,680 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission4/src/main/java
+2024-07-11 10:35:18,681 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission4/src/main/resources
+2024-07-11 10:35:18,681 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission4/src/main/resources
+2024-07-11 10:35:18,681 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission4/src/test/java
+2024-07-11 10:35:18,682 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission4/src/test/resources
+2024-07-11 10:35:18,850 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.18/byte-buddy-1.12.18-sources.jar
+2024-07-11 10:35:18,853 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.12.18
+2024-07-11 10:35:18,901 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/2.2.224/h2-2.2.224-sources.jar
+2024-07-11 10:35:19,031 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 4 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-07-11 10:35:19,172 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-11 10:35:19,336 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/2.2.224/h2-2.2.224-sources.jar
+2024-07-11 10:35:19,339 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.h2database:h2:2.2.224
+2024-07-11 10:35:20,389 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT @ C:\workspace-sts4\Chap03Mission\pom.xml.
+2024-07-11 10:35:20,542 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.rubypaper:Chapter02:0.0.1-SNAPSHOT @ C:\workspace-sts4\Chapter02\pom.xml.
+2024-07-11 10:35:20,588 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/board-spring-boot-starter: com.rubypaper:board-spring-boot-starter:0.0.1-SNAPSHOT with classifier  to /board-spring-boot-starter/target/classes
+2024-07-11 10:35:20,627 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Chapter03:0.0.1-SNAPSHOT @ C:\workspace-sts4\Chapter03\pom.xml.
+2024-07-11 10:35:20,694 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Mission2:0.0.1-SNAPSHOT @ C:\workspace-sts4\Mission2\pom.xml.
+2024-07-11 10:35:20,759 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Mission3:0.0.1-SNAPSHOT @ C:\workspace-sts4\Mission3\pom.xml.
+2024-07-11 10:35:20,828 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Mission4-1:0.0.1-SNAPSHOT @ C:\workspace-sts4\Mission4-1\pom.xml.
+2024-07-11 10:35:20,899 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Mission5:0.0.1-SNAPSHOT @ C:\workspace-sts4\Mission5\pom.xml.
+2024-07-11 10:35:21,751 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Chap03Mission/src/main/java
+2024-07-11 10:35:21,752 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chap03Mission/src/main/resources
+2024-07-11 10:35:21,752 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chap03Mission/src/main/resources
+2024-07-11 10:35:21,752 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Chap03Mission/src/test/java
+2024-07-11 10:35:21,752 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chap03Mission/src/test/resources
+2024-07-11 10:35:21,934 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Chapter02/src/main/java
+2024-07-11 10:35:21,934 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chapter02/src/main/resources
+2024-07-11 10:35:21,934 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chapter02/src/main/resources
+2024-07-11 10:35:21,935 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Chapter02/src/test/java
+2024-07-11 10:35:21,935 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chapter02/src/test/resources
+2024-07-11 10:35:22,115 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Chapter03/src/main/java
+2024-07-11 10:35:22,116 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chapter03/src/main/resources
+2024-07-11 10:35:22,116 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chapter03/src/main/resources
+2024-07-11 10:35:22,116 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Chapter03/src/test/java
+2024-07-11 10:35:22,117 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chapter03/src/test/resources
+2024-07-11 10:35:22,311 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission2/src/main/java
+2024-07-11 10:35:22,311 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission2/src/main/resources
+2024-07-11 10:35:22,311 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission2/src/main/resources
+2024-07-11 10:35:22,312 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission2/src/test/java
+2024-07-11 10:35:22,312 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission2/src/test/resources
+2024-07-11 10:35:22,497 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission3/src/main/java
+2024-07-11 10:35:22,497 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission3/src/main/resources
+2024-07-11 10:35:22,497 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission3/src/main/resources
+2024-07-11 10:35:22,498 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission3/src/test/java
+2024-07-11 10:35:22,498 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission3/src/test/resources
+2024-07-11 10:35:22,680 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission4-1/src/main/java
+2024-07-11 10:35:22,680 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission4-1/src/main/resources
+2024-07-11 10:35:22,680 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission4-1/src/main/resources
+2024-07-11 10:35:22,680 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission4-1/src/test/java
+2024-07-11 10:35:22,681 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission4-1/src/test/resources
+2024-07-11 10:35:22,873 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission5/src/main/java
+2024-07-11 10:35:22,873 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission5/src/main/resources
+2024-07-11 10:35:22,873 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission5/src/main/resources
+2024-07-11 10:35:22,874 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission5/src/test/java
+2024-07-11 10:35:22,874 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission5/src/test/resources
+2024-07-11 10:35:23,218 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 7 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 1.00 sec 
+2024-07-11 10:35:23,284 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-11 10:35:23,846 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rubypaper:Chapter01:0.0.1-SNAPSHOT @ C:\workspace-sts4\Chapter01\pom.xml.
+2024-07-11 10:35:23,984 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rubypaper:Chapter04:0.0.1-SNAPSHOT @ C:\workspace-sts4\Chapter04\pom.xml.
+2024-07-11 10:35:24,056 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Mission1:0.0.1-SNAPSHOT @ C:\workspace-sts4\Mission1\pom.xml.
+2024-07-11 10:35:24,118 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Mission4:0.0.1-SNAPSHOT @ C:\workspace-sts4\Mission4\pom.xml.
+2024-07-11 10:35:24,875 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Chapter01/src/main/java
+2024-07-11 10:35:24,876 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chapter01/src/main/resources
+2024-07-11 10:35:24,876 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chapter01/src/main/resources
+2024-07-11 10:35:24,876 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Chapter01/src/test/java
+2024-07-11 10:35:24,876 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chapter01/src/test/resources
+2024-07-11 10:35:25,042 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Chapter04/src/main/java
+2024-07-11 10:35:25,043 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chapter04/src/main/resources
+2024-07-11 10:35:25,043 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Chapter04/src/test/java
+2024-07-11 10:35:25,043 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Chapter04/src/test/resources
+2024-07-11 10:35:25,108 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission1/src/main/java
+2024-07-11 10:35:25,108 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission1/src/main/resources
+2024-07-11 10:35:25,108 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission1/src/main/resources
+2024-07-11 10:35:25,109 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission1/src/test/java
+2024-07-11 10:35:25,109 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission1/src/test/resources
+2024-07-11 10:35:25,272 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission4/src/main/java
+2024-07-11 10:35:25,272 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission4/src/main/resources
+2024-07-11 10:35:25,272 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission4/src/main/resources
+2024-07-11 10:35:25,272 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission4/src/test/java
+2024-07-11 10:35:25,272 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission4/src/test/resources
+2024-07-11 10:35:25,503 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 4 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-07-11 10:35:25,539 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-11 10:35:26,145 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Mission2:0.0.1-SNAPSHOT @ C:\workspace-sts4\Mission2\pom.xml.
+2024-07-11 10:35:26,294 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Mission3:0.0.1-SNAPSHOT @ C:\workspace-sts4\Mission3\pom.xml.
+2024-07-11 10:35:26,356 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Mission4-1:0.0.1-SNAPSHOT @ C:\workspace-sts4\Mission4-1\pom.xml.
+2024-07-11 10:35:26,416 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.pnu:Mission5:0.0.1-SNAPSHOT @ C:\workspace-sts4\Mission5\pom.xml.
+2024-07-11 10:35:27,033 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission2/src/main/java
+2024-07-11 10:35:27,034 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission2/src/main/resources
+2024-07-11 10:35:27,034 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission2/src/main/resources
+2024-07-11 10:35:27,034 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission2/src/test/java
+2024-07-11 10:35:27,034 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission2/src/test/resources
+2024-07-11 10:35:27,207 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission3/src/main/java
+2024-07-11 10:35:27,208 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission3/src/main/resources
+2024-07-11 10:35:27,208 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission3/src/main/resources
+2024-07-11 10:35:27,208 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission3/src/test/java
+2024-07-11 10:35:27,208 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission3/src/test/resources
+2024-07-11 10:35:27,372 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission4-1/src/main/java
+2024-07-11 10:35:27,373 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission4-1/src/main/resources
+2024-07-11 10:35:27,373 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission4-1/src/main/resources
+2024-07-11 10:35:27,373 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission4-1/src/test/java
+2024-07-11 10:35:27,373 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission4-1/src/test/resources
+2024-07-11 10:35:27,537 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission5/src/main/java
+2024-07-11 10:35:27,537 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission5/src/main/resources
+2024-07-11 10:35:27,537 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission5/src/main/resources
+2024-07-11 10:35:27,537 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Mission5/src/test/java
+2024-07-11 10:35:27,538 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Mission5/src/test/resources
+2024-07-11 10:35:27,783 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 4 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-07-11 10:35:28,649 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-11 10:35:28,663 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:35:28,667 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Chap03Mission\src\test\resources
+2024-07-11 10:35:29,017 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-11 10:35:29,031 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:35:29,034 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Chapter01\src\test\resources
+2024-07-11 10:35:29,243 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-11 10:35:29,255 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:35:29,258 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Chapter03\src\test\resources
+2024-07-11 10:35:29,422 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:35:29,423 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:35:29,426 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:35:29,427 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 10:35:29,872 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-11 10:35:29,889 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:35:29,892 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Mission1\src\test\resources
+2024-07-11 10:35:30,084 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-11 10:35:30,097 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:35:30,100 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Mission2\src\test\resources
+2024-07-11 10:35:30,311 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-11 10:35:30,326 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:35:30,330 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Mission3\src\test\resources
+2024-07-11 10:35:30,580 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-11 10:35:30,593 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:35:30,596 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Mission4\src\test\resources
+2024-07-11 10:35:30,810 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-11 10:35:30,826 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:35:30,830 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Mission4-1\src\test\resources
+2024-07-11 10:35:31,242 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-11 10:35:31,255 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:35:31,258 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Mission5\src\test\resources
+2024-07-11 10:35:31,412 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-11 10:35:31,426 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:35:31,429 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Chapter02\src\test\resources
+2024-07-11 10:40:33,547 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:40:33,550 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:40:33,552 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:40:33,554 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 10:46:44,457 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:46:44,458 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:46:44,459 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:46:44,460 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 10:50:11,314 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:50:11,315 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:50:11,317 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:50:11,319 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 10:50:20,021 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:50:20,022 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:50:20,024 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:50:20,025 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 10:50:22,659 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rubypaper:Chapter04:0.0.1-SNAPSHOT @ C:\workspace-sts4\Chapter04\pom.xml.
+2024-07-11 10:50:22,852 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.pom
+2024-07-11 10:50:22,867 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.pom
+2024-07-11 10:50:22,882 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/2.0.9/slf4j-parent-2.0.9.pom
+2024-07-11 10:50:22,899 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/2.0.9/slf4j-parent-2.0.9.pom
+2024-07-11 10:50:22,925 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-bom/2.0.9/slf4j-bom-2.0.9.pom
+2024-07-11 10:50:22,940 [Worker-33: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-bom/2.0.9/slf4j-bom-2.0.9.pom
+2024-07-11 10:50:22,967 [Worker-33: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier  to /Chap03Mission/target/classes
+2024-07-11 10:50:23,267 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:50:23,268 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:50:23,269 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:50:23,270 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 10:50:23,649 [Worker-39: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:50:23,650 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:50:23,653 [Worker-39: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:50:23,654 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 10:50:24,106 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-observation/1.12.7/micrometer-observation-1.12.7-sources.jar
+2024-07-11 10:50:24,136 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-observation/1.12.7/micrometer-observation-1.12.7-sources.jar
+2024-07-11 10:50:24,138 [Worker-36: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-observation:1.12.7
+2024-07-11 10:50:24,186 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-commons/1.12.7/micrometer-commons-1.12.7-sources.jar
+2024-07-11 10:50:24,554 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-commons/1.12.7/micrometer-commons-1.12.7-sources.jar
+2024-07-11 10:50:24,556 [Worker-36: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-commons:1.12.7
+2024-07-11 10:50:27,518 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:50:27,519 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:50:27,520 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:50:27,521 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 10:50:40,585 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:50:40,586 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:50:40,588 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:50:40,588 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 10:51:43,273 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:51:43,274 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:51:43,275 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:51:43,276 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 10:55:27,249 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:55:27,250 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:55:27,251 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:55:27,252 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 10:59:40,014 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:59:40,015 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 10:59:40,016 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 10:59:40,017 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 11:05:50,232 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:05:50,234 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 11:05:50,235 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:05:50,237 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 11:10:42,137 [Worker-46: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:10:42,138 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 11:10:42,140 [Worker-46: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:10:42,140 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 11:12:02,624 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rubypaper:Chapter04:0.0.1-SNAPSHOT @ C:\workspace-sts4\Chapter04\pom.xml.
+2024-07-11 11:12:02,777 [Worker-45: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier  to /Chap03Mission/target/classes
+2024-07-11 11:12:15,586 [Worker-44: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rubypaper:Chapter04:0.0.1-SNAPSHOT @ C:\workspace-sts4\Chapter04\pom.xml.
+2024-07-11 11:12:15,751 [Worker-44: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier  to /Chap03Mission/target/classes
+2024-07-11 11:12:15,871 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:12:15,872 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 11:12:15,874 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:12:15,875 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 11:13:15,487 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rubypaper:Chapter04:0.0.1-SNAPSHOT @ C:\workspace-sts4\Chapter04\pom.xml.
+2024-07-11 11:13:15,664 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.34/lombok-1.18.34.pom
+2024-07-11 11:13:15,681 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.34/lombok-1.18.34.pom
+2024-07-11 11:13:15,692 [Worker-45: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier  to /Chap03Mission/target/classes
+2024-07-11 11:13:15,716 [Worker-45: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier  to /Chap03Mission/target/classes
+2024-07-11 11:13:15,749 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.34/lombok-1.18.34.jar
+2024-07-11 11:13:16,068 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.34/lombok-1.18.34.jar
+2024-07-11 11:13:16,171 [Worker-45: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:13:16,172 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 11:13:16,174 [Worker-45: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:13:16,174 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 11:13:16,523 [Worker-46: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:13:16,523 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 11:13:16,525 [Worker-46: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:13:16,525 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 11:13:17,222 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.34/lombok-1.18.34-sources.jar
+2024-07-11 11:13:17,405 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.34/lombok-1.18.34-sources.jar
+2024-07-11 11:13:17,407 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.34
+2024-07-11 11:13:30,693 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:13:30,694 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 11:13:30,695 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:13:30,696 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 11:13:52,308 [Worker-44: Launching JPAClient] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:13:52,309 [Worker-44: Launching JPAClient] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 11:13:52,312 [Worker-44: Launching JPAClient] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:13:52,313 [Worker-44: Launching JPAClient] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 11:13:52,409 [Worker-44: Launching JPAClient] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 11:13:52,486 [Worker-44: Launching JPAClient] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 11:13:52,561 [Worker-44: Launching JPAClient] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 11:35:03,494 [Worker-53: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:35:03,496 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 11:35:03,497 [Worker-53: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:35:03,498 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 11:35:50,778 [Worker-54: Launching JPAClient] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 11:35:50,854 [Worker-54: Launching JPAClient] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 11:35:50,934 [Worker-54: Launching JPAClient] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 11:37:44,293 [Worker-54: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:37:44,294 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 11:37:44,296 [Worker-54: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:37:44,296 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 11:39:10,238 [Worker-57: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:39:10,239 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 11:39:10,240 [Worker-57: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 11:39:10,241 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 11:39:14,483 [Worker-57: Launching JPAClientFind] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 11:39:14,557 [Worker-57: Launching JPAClientFind] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 11:39:14,629 [Worker-57: Launching JPAClientFind] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:03:54,951 [Worker-60: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:03:54,952 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 12:03:54,954 [Worker-60: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:03:54,955 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 12:04:54,191 [Worker-58: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:04:54,192 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 12:04:54,193 [Worker-58: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:04:54,194 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 12:04:57,560 [Worker-54: Launching JPAClientEdit] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:04:57,634 [Worker-54: Launching JPAClientEdit] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:04:57,707 [Worker-54: Launching JPAClientEdit] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:07:55,891 [Worker-64: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:07:55,892 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 12:07:55,894 [Worker-64: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:07:55,894 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 12:07:57,138 [Worker-66: Launching JPAClientFind] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:07:57,209 [Worker-66: Launching JPAClientFind] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:07:57,283 [Worker-66: Launching JPAClientFind] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:25:40,036 [Worker-65: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:25:40,037 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 12:25:40,039 [Worker-65: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:25:40,040 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 12:26:03,610 [Worker-70: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:26:03,611 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 12:26:03,612 [Worker-70: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:26:03,612 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 12:27:06,703 [Worker-68: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:27:06,703 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 12:27:06,705 [Worker-68: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:27:06,706 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 12:27:08,521 [Worker-68: Launching JPAClient] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:27:08,595 [Worker-68: Launching JPAClient] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:27:08,668 [Worker-68: Launching JPAClient] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:27:38,845 [Worker-58: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:27:38,845 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 12:27:38,847 [Worker-58: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:27:38,847 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 12:27:49,455 [Worker-58: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:27:49,456 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 12:27:49,457 [Worker-58: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:27:49,458 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 12:29:50,376 [Worker-73: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:29:50,377 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 12:29:50,378 [Worker-73: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:29:50,379 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 12:29:54,336 [Worker-71: Launching JPAClientRemove] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:29:54,409 [Worker-71: Launching JPAClientRemove] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:29:54,486 [Worker-71: Launching JPAClientRemove] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:30:33,603 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:30:33,604 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 12:30:33,606 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:30:33,607 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 12:30:34,600 [Worker-74: Launching JPAClientRemove] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:30:34,672 [Worker-74: Launching JPAClientRemove] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:30:34,745 [Worker-74: Launching JPAClientRemove] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:30:42,138 [Worker-71: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:30:42,139 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 12:30:42,140 [Worker-71: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:30:42,140 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 12:31:35,582 [Worker-72: Launching JPAClientRemove] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:31:35,652 [Worker-72: Launching JPAClientRemove] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:31:35,723 [Worker-72: Launching JPAClientRemove] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:32:58,624 [Worker-75: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:32:58,625 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 12:32:58,627 [Worker-75: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:32:58,628 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 12:33:00,128 [Worker-73: Launching JPAClientRemove] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:33:00,200 [Worker-73: Launching JPAClientRemove] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:33:00,273 [Worker-73: Launching JPAClientRemove] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:40:28,061 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:40:28,062 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 12:40:28,064 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:40:28,065 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 12:43:44,351 [Worker-77: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:43:44,352 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 12:43:44,353 [Worker-77: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:43:44,354 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 12:43:47,691 [Worker-74: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:43:47,765 [Worker-74: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:43:47,840 [Worker-74: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:46:39,356 [Worker-79: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:46:39,357 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 12:46:39,358 [Worker-79: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:46:39,359 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 12:46:54,241 [Worker-58: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:46:54,313 [Worker-58: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:46:54,387 [Worker-58: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:47:48,292 [Worker-58: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:47:48,294 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 12:47:48,295 [Worker-58: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 12:47:48,296 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 12:47:49,505 [Worker-58: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:47:49,576 [Worker-58: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 12:47:49,649 [Worker-58: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:08:59,416 [Worker-82: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:08:59,417 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 13:08:59,419 [Worker-82: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:08:59,419 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 13:09:00,808 [Worker-83: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:09:00,882 [Worker-83: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:09:00,955 [Worker-83: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:09:32,533 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:09:32,534 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 13:09:32,536 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:09:32,537 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 13:09:33,788 [Worker-81: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:09:33,862 [Worker-81: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:09:33,935 [Worker-81: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:09:52,668 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:09:52,669 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 13:09:52,670 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:09:52,671 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 13:09:55,298 [Worker-82: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:09:55,372 [Worker-82: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:09:55,446 [Worker-82: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:11:09,749 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:11:09,750 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 13:11:09,752 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:11:09,752 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 13:11:10,800 [Worker-58: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:11:10,871 [Worker-58: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:11:10,943 [Worker-58: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:12:56,007 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:12:56,008 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 13:12:56,010 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:12:56,011 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 13:12:57,422 [Worker-82: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:12:57,497 [Worker-82: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:12:57,570 [Worker-82: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:13:06,628 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:13:06,628 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 13:13:06,630 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:13:06,631 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 13:13:08,618 [Worker-81: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:13:08,690 [Worker-81: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:13:08,763 [Worker-81: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:13:25,550 [Worker-58: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:13:25,551 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 13:13:25,552 [Worker-58: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:13:25,553 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 13:13:26,172 [Worker-83: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:13:26,246 [Worker-83: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:13:26,321 [Worker-83: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:13:36,412 [Worker-58: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:13:36,413 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 13:13:36,415 [Worker-58: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:13:36,416 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 13:13:37,299 [Worker-84: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:13:37,374 [Worker-84: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:13:37,447 [Worker-84: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:13:45,197 [Worker-58: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:13:45,198 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 13:13:45,199 [Worker-58: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:13:45,200 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 13:13:45,974 [Worker-82: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:13:46,050 [Worker-82: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:13:46,123 [Worker-82: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:14:14,243 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:14:14,244 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 13:14:14,245 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:14:14,246 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 13:14:14,973 [Worker-81: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:14:15,044 [Worker-81: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:14:15,120 [Worker-81: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:15:16,700 [Worker-81: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:15:16,700 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 13:15:16,702 [Worker-81: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:15:16,703 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 13:15:17,826 [Worker-82: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:15:17,900 [Worker-82: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:15:17,975 [Worker-82: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:15:31,421 [Worker-83: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:15:31,422 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 13:15:31,424 [Worker-83: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:15:31,425 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-11 13:15:32,219 [Worker-58: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:15:32,295 [Worker-58: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:15:32,366 [Worker-58: Launching JPAClientFind2] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier null to /Chap03Mission/target/classes
+2024-07-11 13:15:51,669 [Worker-83: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:15:51,670 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-11 13:15:51,672 [Worker-83: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-11 13:15:51,673 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
