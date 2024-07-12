@@ -1,4 +1,18 @@
 post방식 https://nocount.tistory.com/117
+
+
+==================================================================
+
+@Builder 모든 필드들이 포함된 생성자를 만든다. 기본생성자가 없다.
+@NoArgsConstructor        기본생성자
+@AllArgsConstructor         모든필드들이 포함된 생성자
+
+ch05.src/test/java/edu/pnu/BoardRepositoryTest.java : import org.junit.jupiter.api.Order;
+ch05/src/main/java/edu/pnu/DateInit.java : application.properties에 spring.h2.console.path: /h2-console  
+					http://localhost:8080/h2-console
+					H2 DB Embedded Mode
+ch05/src/main/java/edu/pnu/TestController.java : post 할 때 입력데이터는 json형태
+
 ==================================================================
 프로젝트-run as-maven install-target폴더 내 jar파일
 chapter01
