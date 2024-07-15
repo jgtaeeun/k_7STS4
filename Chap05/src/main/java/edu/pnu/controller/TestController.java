@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import edu.pnu.domain.Board;
 import edu.pnu.persistence.BoardRepository;
+import edu.pnu.persistence.MemberRepository;
 import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor
