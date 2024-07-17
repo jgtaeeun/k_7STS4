@@ -13,21 +13,21 @@
 	<h1>게시글 상세</h1>
 	<hr>
 	<form action="updateBoard" method="post">
-	<input type="hidden" name="seq" value="%{board.seq}"/>
+	<input type="hidden" name="seq" value="${board.seq}"/>
 	
 	<table border="1">
 		<tr>
 			<td bgcolor="orange" width="70" >제목</td>
-			<td align="left" ><input type="text" name="title" value="${board.title }"/></td>
+			<td align="left" ><input type="text" name="title" value="${board.title}"/></td>
 		</tr>
 		<tr>
 			<td bgcolor="orange" > 작성자</td>
-			<td >${board.writer }</td>
+			<td >${board.writer}</td>
 			
 		</tr>
 		<tr>
 			<td bgcolor="orange">내용</td>
-			<td align="left" ><textarea  name="content" cols="40" rows="10">${board.content }</textarea></td>
+			<td align="left" ><textarea  name="content" cols="40" rows="10">${board.content}</textarea></td>
 		</tr>
 		<tr>
 			<td bgcolor="orange" > 등록일</td>

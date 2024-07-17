@@ -13,6 +13,23 @@ ch05/src/main/java/edu/pnu/DateInit.java : application.properties에 spring.h2.c
 					H2 DB Embedded Mode
 ch05/src/main/java/edu/pnu/TestController.java : post 할 때 입력데이터는 json형태
 
+
+
+
+
+==================================================================
+6장 필기
+수정@RequestMapping(value="/getBoardList", method= {RequestMethod.GET, RequestMethod.POST})
+
+hello    -함수명이랑 url이 HelloController 기존에 있던 함수와 이름이 동일해서 에러난 듯 하다
+
+	@GetMapping("/helloty")
+	public String helloty(Model model) {
+		model.addAttribute("helloty", "Hello_타임리프");
+		return "hello";
+	}
+
+타임리프로 게시판 프로그램 개발하기-목록출력-writer 양방향 매핑=>create로 하고 다시 update로 고치기
 ==================================================================
 프로젝트-run as-maven install-target폴더 내 jar파일
 chapter01
