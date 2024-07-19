@@ -24,7 +24,7 @@ public class RelationMappingTest {
 	private  BoardRepository boardRepo ;
 	
 //	@Test
-	//영속성 삭제
+////	영속성 삭제
 //	public void testCascadeDelete() {
 //		memberRepo.deleteById("member3");
 //	}
@@ -37,7 +37,7 @@ public class RelationMappingTest {
 //		
 //		Member m1 =Member.builder()
 //							.id("member3")
-//							.password("member111")
+//							.password("member4")
 //							.name("둘리")
 //							.role("User")
 //							.build();
@@ -45,39 +45,40 @@ public class RelationMappingTest {
 ////		
 //		Member m2 =Member.builder()
 //				.id("member4")
-//				.password("member222")
+//				.password("member4")
 //				.name("도우너")
 //				.role("Admin")
 //				.build();
 ////		memberRepo.save(m2);
 //		
 //		for (int i= 1 ; i<=3 ; i++) {
-//			Board.builder()
+//			Board board =Board.builder()
 //					.title("title"+i)
 //					.content("content1"+i)
 //					.createDate(new Date())
 //					.cnt((long)(Math.random()*100))
-//					.member(m1)
 //					.build();
-//					
+//			board.setMember(m1);
 //		}
+//		
 //		memberRepo.save(m1);
 //		
 //		for (int i= 1 ; i<=3 ; i++) {
-//		Board.builder()
+//			Board board =Board.builder()
 //		.title("title"+i)
 //		.content("content1"+i)
 //		.createDate(new Date())
 //		.cnt((long)(Math.random()*100))
-//		.member(m2)
+//		
 //		.build();
+//		board.setMember(m2);
 //		}
 //		memberRepo.save(m2);
 //	}
 //	
-//	}
+	
 //	
-//	@Test 
+//	@Test
 //	@Order(1)
 //	public void testManyToOneSelect() {
 //		Board board = boardRepo.findById(5L).get();

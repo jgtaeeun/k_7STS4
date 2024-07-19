@@ -19,19 +19,19 @@ public interface BoardRepository extends JpaRepository <Board, Long> {
 	
 	
 	
-	//위치기반 파라미터 사용하기(파라미터 1개)
-//	@Query("SELECT b FROM Board b WHERE  b.title LIKE %?1% ORDER BY b.seq DESC")
-//	List<Board> queryAoontationTest1(String searchKeyword);
+//	//위치기반 파라미터 사용하기(파라미터 1개)
+	@Query("SELECT b FROM Board b WHERE  b.title LIKE %?1% ORDER BY b.seq DESC")
+	List<Board> queryAoontationTest1(String searchKeyword);
 
-	//위치기반 파라미터 사용하기(파라미터 2개)
+//	//위치기반 파라미터 사용하기(파라미터 2개)
 //	@Query("SELECT b FROM Board b WHERE  b.title LIKE %?1% and b.title LIKE %?2%  ORDER BY b.seq DESC")
 //	List<Board> queryAoontationTest1_1(String searchKeyword1,String searchKeyword2);
-	
-	//이름기반 파라미터 사용하기(파라미터 1개)
+//	
+//	//이름기반 파라미터 사용하기(파라미터 1개)
 //	@Query("SELECT b FROM Board b WHERE  b.title LIKE %:searchKeyword%  ORDER BY b.seq DESC")
 //	List<Board> queryAoontationTest2(@Param("searchKeyword") String searchKeyword);
-	//특벙변수 조회
+//	//특벙변수 조회
 //	@Query("SELECT b.seq, b.title, b.writer, b.createDate FROM Board b WHERE  b.title LIKE %?1%  ORDER BY b.seq DESC")
-	//List<Object[]> queryAoontationTest3(@Param("searchKeyword") String searchKeyword);
+//	List<Object[]> queryAoontationTest3(@Param("searchKeyword") String searchKeyword);
 }
 

@@ -15,12 +15,15 @@ import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;
 import org.junit.jupiter.api.Order;
 import edu.pnu.domain.Board;
 import edu.pnu.persistence.BoardRepository;
+import edu.pnu.persistence.MemberRepository;
 
 @SpringBootTest
 @TestMethodOrder(OrderAnnotation.class)
 public class QueryMethodTest {
 	@Autowired
 	private BoardRepository boardRepo;
+	@Autowired 
+	private MemberRepository memberRepo;
 //	@Order(1)
 //	@Test
 //	public void testFindByTitle() {
@@ -32,6 +35,7 @@ public class QueryMethodTest {
 //	}
 //	@Order(2)
 //	@Test
+//	
 //	public void testFindByContent() {
 //		List<Board> list = boardRepo. findByContentContaining("5");
 //		System.out.println("--->testFindByContent");
