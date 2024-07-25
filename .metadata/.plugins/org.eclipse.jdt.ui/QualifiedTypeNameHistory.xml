@@ -41,4 +41,6 @@
     <fullyQualifiedTypeName name="com.auth0.jwt.algorithms.Algorithm"/>
     <fullyQualifiedTypeName name="org.springframework.security.core.authority.AuthorityUtils"/>
     <fullyQualifiedTypeName name="org.springframework.security.core.context.SecurityContextHolder"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.annotation.AuthenticationPrincipal"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
 </qualifiedTypeNameHistroy>

@@ -7722,3 +7722,116 @@ org.eclipse.core.runtime.CoreException: Launch configuration BoardRepositoryTest
 2024-07-23 18:18:03,993 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-07-23 18:18:03,997 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
 2024-07-23 18:18:03,999 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\OAuth2\src\test\resources
+2024-07-25 09:26:55,030 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-25 12:22:09,994 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-25 12:22:19,367 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:22:19,386 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:22:19,392 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Chap03Mission\src\test\resources
+2024-07-25 12:22:21,963 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:22:21,982 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:22:21,987 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Chap05\src\test\resources
+2024-07-25 12:22:23,589 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:22:23,611 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2024-07-25 12:22:23,628 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Chap06\src\test\resources
+2024-07-25 12:22:25,419 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:22:25,433 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2024-07-25 12:22:25,446 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Chap07\src\test\resources
+2024-07-25 12:22:26,055 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:22:26,070 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:22:26,075 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Chapter01\src\test\resources
+2024-07-25 12:22:26,643 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:22:26,658 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:22:26,662 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Chapter03\src\test\resources
+2024-07-25 12:22:27,718 [Worker-10: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Chap03Mission: edu.pnu:Chap03Mission:0.0.1-SNAPSHOT with classifier  to /Chap03Mission/target/classes
+2024-07-25 12:22:27,888 [Worker-10: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-25 12:22:27,889 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:22:27,892 [Worker-10: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-25 12:22:27,893 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-25 12:22:32,402 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:22:32,441 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:22:32,447 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Mission1\src\test\resources
+2024-07-25 12:22:33,710 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:22:33,730 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:22:33,746 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Mission2\src\test\resources
+2024-07-25 12:22:34,372 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:22:34,388 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:22:34,392 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Mission3\src\test\resources
+2024-07-25 12:22:35,270 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:22:35,291 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:22:35,299 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Mission4\src\test\resources
+2024-07-25 12:22:35,936 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:22:35,955 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:22:35,961 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Mission4-1\src\test\resources
+2024-07-25 12:22:36,622 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:22:36,642 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:22:36,647 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Mission5\src\test\resources
+2024-07-25 12:22:37,595 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:22:37,611 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-25 12:22:37,618 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\OAuth2\src\test\resources
+2024-07-25 12:22:38,474 [Worker-13: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/OAuth2: edu.pnu:OAuth2:0.0.1-SNAPSHOT with classifier  to /OAuth2/target/classes
+2024-07-25 12:22:38,553 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:22:38,568 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2024-07-25 12:22:38,578 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurity\src\test\resources
+2024-07-25 12:22:39,413 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:22:39,429 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:22:39,433 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT\src\test\resources
+2024-07-25 12:22:40,038 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:22:40,056 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:22:40,060 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT-logincontroller\src\test\resources
+2024-07-25 12:22:40,564 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:22:40,569 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\board-spring-boot-starter\src\test\resources
+2024-07-25 12:22:41,208 [Worker-3: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/board-spring-boot-starter: com.rubypaper:board-spring-boot-starter:0.0.1-SNAPSHOT with classifier  to /board-spring-boot-starter/target/classes
+2024-07-25 12:22:41,313 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:22:41,331 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:22:41,335 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\Chapter02\src\test\resources
+2024-07-25 12:27:45,315 [Worker-3: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:27:45,324 [Worker-3: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:27:45,327 [Worker-3: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT-logincontroller\src\test\resources
+2024-07-25 12:28:39,772 [Worker-15: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:28:39,781 [Worker-15: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:28:39,785 [Worker-15: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT-logincontroller\src\test\resources
+2024-07-25 12:32:51,670 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:32:51,675 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:32:51,677 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT-logincontroller\src\test\resources
+2024-07-25 12:34:48,775 [Worker-20: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:34:48,782 [Worker-20: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:34:48,784 [Worker-20: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT-logincontroller\src\test\resources
+2024-07-25 12:36:09,104 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:36:09,119 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:36:09,123 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT-logincontroller\src\test\resources
+2024-07-25 12:39:45,426 [Worker-21: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:39:45,431 [Worker-21: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:39:45,433 [Worker-21: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT-logincontroller\src\test\resources
+2024-07-25 12:46:55,742 [Worker-32: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:46:55,749 [Worker-32: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:46:55,752 [Worker-32: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT-logincontroller\src\test\resources
+2024-07-25 12:48:32,553 [Worker-35: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:48:32,561 [Worker-35: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:48:32,564 [Worker-35: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT-logincontroller\src\test\resources
+2024-07-25 12:50:55,879 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:50:55,884 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:50:55,886 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT-logincontroller\src\test\resources
+2024-07-25 12:54:59,062 [Worker-38: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:54:59,068 [Worker-38: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:54:59,071 [Worker-38: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT-logincontroller\src\test\resources
+2024-07-25 12:55:24,744 [Worker-38: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:55:24,750 [Worker-38: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:55:24,753 [Worker-38: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT-logincontroller\src\test\resources
+2024-07-25 12:56:52,722 [Worker-38: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:56:52,729 [Worker-38: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:56:52,732 [Worker-38: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT-logincontroller\src\test\resources
+2024-07-25 12:58:02,426 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:58:02,432 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:58:02,434 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT-logincontroller\src\test\resources
+2024-07-25 12:59:35,315 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 12:59:35,319 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 12:59:35,321 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT-logincontroller\src\test\resources
+2024-07-25 13:05:38,018 [Worker-43: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 13:05:38,023 [Worker-43: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 13:05:38,026 [Worker-43: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT-logincontroller\src\test\resources
+2024-07-25 13:07:23,396 [Worker-45: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 13:07:23,409 [Worker-45: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 13:07:23,411 [Worker-45: Launching SpringBootSecurityJWT-logincontroller - SpringBootSecurityJwt1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT-logincontroller\src\test\resources
+2024-07-25 13:11:39,447 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 13:11:39,454 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 13:11:39,456 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace-sts4\SpringBootSecurityJWT-logincontroller\src\test\resources

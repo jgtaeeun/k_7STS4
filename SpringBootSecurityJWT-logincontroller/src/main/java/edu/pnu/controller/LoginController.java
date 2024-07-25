@@ -9,6 +9,8 @@ import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.userdetails.User;
+import org.springframework.security.core.userdetails.UserDetails;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
@@ -18,26 +20,25 @@ import com.auth0.jwt.algorithms.Algorithm;
 
 
 import edu.pnu.domain.Member;
+import edu.pnu.service.SecurityUserDetailsService;
+import lombok.RequiredArgsConstructor;
 
 
-
+@RequiredArgsConstructor
 @RestController
 public class LoginController {
 
 
-    private final AuthenticationManager authenticationManager;
+    private final SecurityUserDetailsService UserDetailsService;
 
-    public LoginController( AuthenticationManager authenticationManager) {
-        
-        this.authenticationManager = authenticationManager;
-    }
+   
 
     @PostMapping("/login")
     public ResponseEntity<?> loginProc(@RequestBody Member member) {
         try {
-            Authentication auth = authenticationManager.authenticate(new UsernamePasswordAuthenticationToken(member.getUsername(), member.getPassword()));
-            User user = (User) auth.getPrincipal();
-
+        	 User user = (User) UserDetailsService.loadUserByUsername(member.getUsername()); 
+        	System.out.println(user);
+            
             String token = JWT.create()
                     .withExpiresAt(new Date(System.currentTimeMillis() + 1000 * 60 * 10))
                     .withClaim("username", user.getUsername())
@@ -53,4 +54,5 @@ public class LoginController {
                     .body("Authentication failed: " + e.getMessage());
         }
     }
+   
 }
