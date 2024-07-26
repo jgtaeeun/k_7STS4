@@ -39,6 +39,39 @@ https://velog.io/@dailylifecoding/H2-h2-install-and-create-database
 다 작성 후 create를 누르면 아래 초록색 글귀와 함께 성공적으로 DataBase 생성됐음을 알려준다.
 ~/.h2/test
 ==================================================================
+
+jpa:자바 어플리케이션에서 관계형 데이터베이스를 사용하는 방식을 정의한 인터페이스
+    db는 양방향관계인 반면, 자바객체는 상속관계(단방향)이다.
+
+서블릿(Servlet)이란?
+서블릿은 클라이언트의 요청을 처리하도록 특정 규약에 맞춰 Java 코드로 작성하는 클래스 파일이다.
+아파치 톰캣(Apache Tomcat)은 이러한 서블릿들이 웹 애플리케이션으로 실행할 수 있도록 해주는 서블릿 컨테이너(Servlet Container) 중 하나이다.
+출처: https://ittrue.tistory.com/234 [IT is True:티스토리]
+
+Model(모델)
+Spring MVC 기반의 웹 애플리케이션이 클라이언트의 요청을 전달받으면 요청 사항을 처리하기 위한 작업을 한다.
+처리한 작업의 결과 데이터를 클라이언트에게 응답을 돌려주어야 하는데, 이때 클라이언트에게 응답으로 돌려주는 작업의 처리 결과 데이터를 Model이라 한다.
+ 
+클라이언트의 요청 사항을 구체적으로 처리하는 영역을 서비스 계층(Service layer)라고 하며,
+요청 사항을 처리하기 위해 Java 코드로 구현한 것을 비즈니스 로직(Business Logic)이라 한다.
+ 
+View(뷰)
+View는 Model을 이용하여 웹 브라우저와 같은 애플리케이션의 화면에 보이는 리소스(Resource)를 제공하는 역할을 한다.
+ 
+Spring MVC에는 다양한 View 기술이 포함되어 있다.
+
+HTML 페이지 출력
+PDF, Excel 등의 문서 형태로 출력
+XML, JSON 등 특정 형식의 포맷으로 변환
+
+ 
+Controller(컨트롤러)
+컨트롤러는 클라이언트 측의 요청을 직접적으로 전달받는 엔드포인트(Endpoint)로써 Model과 View의 중간에서 상호작용을 해주는 역할을 한다.
+ 
+클라이언트 측의 요청을 전달받아 비즈니스 로직을 거친 후, Model 데이터가 만들어지면, 이 Model 데이터를 View로 전달하는 역할을 한다.
+출처: https://ittrue.tistory.com/234 [IT is True:티스토리]
+==================================================================
+
 프로젝트-run as-maven install-target폴더 내 jar파일
 chapter01
 src/test/java
